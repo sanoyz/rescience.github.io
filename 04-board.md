@@ -186,6 +186,10 @@ If your name is missing here, tell us
 * [Rohit Goswami](https://github.com/HaoZeke)  
   Molecular Dynamics, DFT/Quantum Chemistry, Computational Photonics, ML/AI, Graph Networks - C/C++, Fortran, Python, Julia  
   ORCID: [0000-0002-2393-8056](https://orcid.org/0000-0002-2393-8056)
+* [Yonas Zewdie](https://github.com/sanoyz), 
+  [#27](https://github.com/ReScience/ReScience/issues/27)  
+  Computer Science, Multimodal Transformers Neural Network, Temporal Data Preprocessing, Mechanistic Interpretability - Python  
+  ORCID: [0009-0003-6037-9876](https://orcid.org/0009-0003-6037-9876)
   
 ## Alumni
 
@@ -250,4 +254,5 @@ If your name is missing here, tell us
   ORCID: [0000-0002-7007-3219](https://orcid.org/0000-0002-7007-3219)
 * [Andreas Enge](https://github.com/andreas-enge)  
   ORCID: —
+
 
